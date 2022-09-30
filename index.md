@@ -1,8 +1,8 @@
 # Welcome to Fider's Personal Webpage.
 
-:-Keep working hard to Graduate...:
+-Keep working hard to Graduate...
 ***
-:-Feeding Knowledge...:
+-Feeding Knowledge...
 ***
 ```c#
 using System;
