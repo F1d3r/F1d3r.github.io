@@ -1,5 +1,6 @@
-# Activate pytorch environment
+# The commands used in conda commander line.
+### Activate pytorch environment
 `conda activate pytorch`
 
-#Enter python interprater
+### Enter python interprater
 `<pytorch> python`
